@@ -1,0 +1,24 @@
+**Adjacency Celebrity Matrix:** 
+false true true true false false false false false 
+true false false true false false false false true 
+true false false true false false false true true 
+true true true true true true true true true 
+false false false true false true true true false 
+false false false true true false true false false 
+false false false true true true false false false 
+false false true true true false false false true 
+false true true true false false false true false 
+
+**Level of Popularity of Celebrities**
+Taylor Swift: 3
+Kanye West: 3
+Susan Wang: 4
+Chuck Norris: 9
+Michelle Obama: 4
+Ellen Degeneres: 3
+Stephen Curry: 3
+Oprah: 4
+Leo Dicaprio: 4
+
+Drumroll...The Most Popular Influential is?
+3, Chuck Norris! -- which is the fourth celebrity in the matrix!
